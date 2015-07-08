@@ -1,0 +1,25 @@
+
+#ART cnn_art http://rss.cnn.com/rss/edition_entertainment.rss EN
+
+SPORT lemonde_sport http://rss.lemonde.fr/c/205/f/3058/index.rss FR
+#SPORT thetimes_sport http://www.thetimes.co.uk/tto/sport/rss EN
+#
+#ART france24_art http://www.france24.com/fr/culture/rss/ FR
+#
+#SCIENCE cnn_science http://rss.cnn.com/rss/edition_space.rss EN
+SCIENCE france24_science http://www.france24.com/fr/actualites/rss/ FR
+#
+#ART cnn_art http://rss.cnn.com/rss/edition_entertainment.rss EN
+#
+#SCIENCE thetimes_science http://www.thetimes.co.uk/tto/science/rss EN
+#
+#BUSINESS cnn_business http://rss.cnn.com/rss/edition_business.rss EN
+#BUSINESS mytimes_business http://rss.nytimes.com/services/xml/rss/nyt/Business.xml EN
+#BUSINESS thetimes_business http://www.thetimes.co.uk/tto/business/rss EN
+#BUSINESS france24_business http://www.france24.com/fr/economie/rss FR
+#
+#HEALTH thetimes_health www.thetimes.co.uk/tto/health/rss EN
+#HEALTH lemonde_sante http://www.lemonde.fr/sante/rss_full.xml FR
+#HEALTH bfmtv_sante http://www.bfmtv.com/rss/societe/sante/ FR
+#HEALTH cnn_health http://rss.cnn.com/rss/cnn_health.rss EN
+#HEALTH bbci_health http://feeds.bbci.co.uk/news/health/rss.xml EN
